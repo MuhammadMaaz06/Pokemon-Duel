@@ -1,4 +1,4 @@
-//MuhammadMaaz_25i-3066_assignment_03
+//Pokemon Duel Game
 
 #include<iostream>
 #include<string>
@@ -47,7 +47,7 @@ int main()
 		
 		if (hp[player0][pok] <= 0)
 		{
-    cout << "This Pokémon has fainted and cannot be used!" << endl;
+    cout << "This PokÃ©mon has fainted and cannot be used!" << endl;
     continue;
 		}
 		
@@ -178,4 +178,5 @@ return 0;
 
 	
 	
+
 
